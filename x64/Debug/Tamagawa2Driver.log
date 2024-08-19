@@ -1,0 +1,19 @@
+﻿  Building 'Tamagawa2Driver' with toolset 'WindowsUserModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\Tamagawa2Driver.inf
+  Stamping [Version] section with DriverVer=01/12/2022,16.43.59.621
+  Tamagawa2Driver.vcxproj -> C:\Users\daiki\source\repos\Tamagawa2Driver\x64\Debug\Tamagawa2Driver.dll
+  Driver is 'Universal'.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\daiki\source\repos\Tamagawa2Driver\x64\Debug\Tamagawa2Driver\tamagawa2driver.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\daiki\source\repos\Tamagawa2Driver\x64\Debug\Tamagawa2Driver\tamagawa2driver.cat
+  

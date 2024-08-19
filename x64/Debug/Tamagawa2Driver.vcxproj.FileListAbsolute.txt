@@ -1,0 +1,2 @@
+C:\Users\daiki\source\repos\Tamagawa2Driver\x64\Debug\Tamagawa2Driver.dll
+C:\Users\daiki\source\repos\Tamagawa2Driver\x64\Debug\Tamagawa2Driver.pdb
